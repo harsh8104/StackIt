@@ -1,6 +1,12 @@
 # StackIt - A Minimal Q&A Forum Platform  - Full Stack Setup Guide
 
+## 🎥 Demo Video
+
+👉 [Watch the demo on YouTube](https://youtu.be/lRwfsq3Ugio)
+
+
 ## 🚀 Quick Start
+
 
 ### 1. Backend Setup
 ```bash
