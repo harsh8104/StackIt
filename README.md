@@ -1,4 +1,4 @@
-# Question Beacon Hub - Full Stack Setup Guide
+# StackIt - A Minimal Q&A Forum Platform  - Full Stack Setup Guide
 
 ## 🚀 Quick Start
 
